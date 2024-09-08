@@ -1,12 +1,14 @@
-This is a project powered by KMIT's Project school
-Project title: Interactive Learning Quiz Generator
+*This is a project powered by KMIT's Project school*
 
-Project Objective:
+# Project title: 
+Interactive Learning Quiz Generator
+
+# Project Objective:
 Develop a tool that automatically generates interactive quizzes based on userprovided topics or text using Generative AI (GenAI). This tool aims to enhance
 learning by creating custom quizzes that help users test their knowledge and
 reinforce their understanding of the material.
 
-Project Overview:
+# Project Overview:
 Quizzes are a proven method for reinforcing learning, but creating them
 manually can be time-consuming. This project leverages GenAI to automatically
 generate quizzes tailored to specific topics, chapters, or documents. Users input
