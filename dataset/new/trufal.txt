@@ -1,0 +1,83 @@
+[
+{
+"Question": "What is data abstraction?",
+"Answer": "Data abstraction separates a data type’s implementation from its interface.",
+"True/False": "True"
+
+"Question": "Explain what a binary search tree is.",
+"Answer": "A binary search tree is a tree-based structure where nodes have two children.",
+"True/False": "False"
+
+"Question": "What is software testing?",
+"Answer": "Software testing ensures a program behaves as expected.",
+"True/False": "True"
+
+"Question": "Explain syntax error.",
+"Answer": "Syntax errors occur when the program logic fails during runtime.",
+"True/False": "False"
+
+"Question": "Define data abstraction.",
+"Answer": "Data abstraction hides the implementation details of data types.",
+"True/False": "True"
+
+"Question": "Why do syntax errors occur?",
+"Answer": "Syntax errors occur when code doesn’t conform to the language rules.",
+"True/False": "True"
+
+"Question": "Explain program documentation.",
+"Answer": "Program documentation helps write code but doesn’t help in future maintenance.",
+"True/False": "False"
+
+"Question": "What is meant by program documentation?",
+"Answer": "It provides details on the code structure, making it easier to understand.",
+"True/False": "True"
+
+"Question": "What is a doubly linked list?",
+"Answer": "It’s a list where each node links to the next node only.",
+"True/False": "False"
+
+"Question": "Describe decision trees.",
+"Answer": "Decision trees are graphical models for decision-making processes.",
+"True/False": "True"
+
+"Question": "What is logistic regression?",
+"Answer": "Logistic regression is used for continuous data predictions.",
+"True/False": "False"
+
+"Question": "What is program documentation?",
+"Answer": "Documentation is necessary for both users and future developers.",
+"True/False": "True"
+
+"Question": "What is DBMS?",
+"Answer": "DBMS is a system for managing, querying, and updating databases.",
+"True/False": "True"
+
+"Question": "What is dimensionality reduction?",
+"Answer": "It removes irrelevant data points from datasets.",
+"True/False": "False"
+
+"Question": "Explain confusion matrix.",
+"Answer": "A confusion matrix helps evaluate classification models.",
+"True/False": "True"
+
+"Question": "What is normalization?",
+"Answer": "It increases redundancy in a database for efficiency.",
+"True/False": "False"
+
+"Question": "Explain polymorphism in OOP.",
+"Answer": "Polymorphism allows objects to be treated as their base type.",
+"True/False": "True"
+
+"Question": "What is bias in data science?",
+"Answer": "Bias occurs when the data model overfits on certain features.",
+"True/False": "True"
+
+"Question": "What are dynamic data structures?",
+"Answer": "Dynamic data structures have fixed sizes set at compile time.",
+"True/False": "False"
+
+"Question": "What is a database?",
+"Answer": "A database is a collection of structured data stored electronically.",
+"True/False": "True"
+}
+]
