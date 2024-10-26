@@ -1,0 +1,165 @@
+[
+{
+“Question”: "What is data abstraction?",
+"Options": [
+    "A) Hiding the implementation details",
+    "B) Using global variables",
+    "C) Writing complex code",
+    "D) Making data public"
+],
+"Correct Option": "A"
+
+"Question": "Explain what a binary search tree is.",
+"Options": [
+    "A) A tree with only one child",
+    "B) A tree-based structure where nodes have two children",
+    "C) A structure with no nodes",
+    "D) A tree with multiple roots"
+],
+"Correct Option": "B"
+
+"Question": "What is software testing?",
+"Options": [
+    "A) The process of coding",
+    "B) Ensuring a program behaves as expected",
+    "C) Documenting the code",
+    "D) Compiling the program"
+],
+"Correct Option": "B"
+
+"Question": "What is a syntax error?",
+"Options": [
+    "A) An error in program logic",
+    "B) A runtime error",
+    "C) An error when code fails to conform to the language rules",
+    "D) A logical flaw in the algorithm"
+],
+"Correct Option": "C"
+
+"Question": "Define data abstraction.",
+"Options": [
+    "A) Hiding implementation details of data types",
+    "B) Directly accessing data",
+    "C) Using complex data structures",
+    "D) Making data public"
+],
+"Correct Option": "A"
+
+"Question": "Why do syntax errors occur?",
+"Options": [
+    "A) Code doesn't run at all",
+    "B) Code doesn't conform to the language rules",
+    "C) Logical mistakes in code",
+    "D) Incorrect use of algorithms"
+],
+"Correct Option": "B"
+
+"Question": "What is meant by program documentation?",
+"Options": [
+    "A) Code comments",
+    "B) Details on code structure for easier understanding",
+    "C) Hidden functions",
+    "D) Redundant code"
+],
+"Correct Option": "B"
+
+"Question": "What is a doubly linked list?",
+"Options": [
+    "A) A list where each node has two pointers",
+    "B) A list with only one pointer per node",
+    "C) A simple array",
+    "D) A tree structure"
+],
+"Correct Option": "A"
+
+"Question": "Describe decision trees.",
+"Options": [
+    "A) Graphical models for decision-making processes",
+    "B) Linear regression models",
+    "C) Types of linked lists",
+    "D) Non-linear data structures"
+],
+"Correct Option": "A"
+
+"Question": "What is logistic regression?",
+"Options": [
+    "A) A type of clustering algorithm",
+    "B) Used for classification tasks",
+    "C) A technique for time series analysis",
+    "D) A method for data cleaning"
+],
+"Correct Option": "B"
+
+"Question": "What is DBMS?",
+"Options": [
+    "A) A language for database queries",
+    "B) A system for managing databases",
+    "C) A type of data model",
+    "D) A network protocol"
+],
+"Correct Option": "B"
+
+"Question": "What is dimensionality reduction?",
+"Options": [
+    "A) Increasing data features",
+    "B) Removing irrelevant data points",
+    "C) Adding more variables",
+    "D) Expanding datasets"
+],
+"Correct Option": "B"
+
+"Question": "Explain confusion matrix.",
+"Options": [
+    "A) A tool for data visualization",
+    "B) A table to evaluate classification models",
+    "C) A method for data transformation",
+    "D) A storage format for datasets"
+],
+"Correct Option": "B"
+
+"Question": "What is normalization?",
+"Options": [
+    "A) Decreasing redundancy in databases",
+    "B) A method to increase data size",
+    "C) Organizing a database to minimize redundancy",
+    "D) Removing data constraints"
+],
+"Correct Option": "C"
+
+"Question": "Explain polymorphism in OOP.",
+"Options": [
+    "A) Objects can be treated as their base type",
+    "B) Functions can have multiple return types",
+    "C) Data hiding techniques",
+    "D) All classes are single inheritance"
+],
+"Correct Option": "A"
+
+"Question": "What is bias in data science?",
+"Options": [
+    "A) Random fluctuations in data",
+    "B) A systematic error in predictions",
+    "C) A method for data sampling",
+    "D) Data validation techniques"
+],
+"Correct Option": "B"
+
+"Question": "What are dynamic data structures?",
+"Options": [
+    "A) Data structures with fixed sizes",
+    "B) Structures that can grow or shrink in size",
+    "C) Arrays that can't be resized",
+    "D) Structures that use static memory allocation"
+],
+"Correct Option": "B"
+
+"Question": "What is a database?",
+"Options": [
+    "A) A collection of unstructured data",
+    "B) A structured collection of data stored electronically",
+    "C) A programming concept",
+    "D) A type of software application"
+],
+"Correct Option": “B"
+}
+]
