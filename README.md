@@ -14,3 +14,5 @@ manually can be time-consuming. This project leverages GenAI to automatically
 generate quizzes tailored to specific topics, chapters, or documents. Users input
 a topic, a piece of text, or select a subject area, and the system generates a
 quiz with various question types, including multiple-choice, true/false, fill-in-theblank, and short answer questions.
+
+![image2](https://github.com/user-attachments/assets/13773c5b-49b5-4272-9ec9-87bb86aa677c)
