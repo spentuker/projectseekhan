@@ -1,6 +1,7 @@
 *This is a project powered by KMIT's Project school*
 # Project Logo:
-![logo_resized (1)](https://github.com/user-attachments/assets/fa0f117f-2474-41bc-b67f-6c8579d1a0cc)
+![logo](https://github.com/user-attachments/assets/0d6a1c94-d7ef-4f2e-8f94-bfd26addf8cc)
+
 
 # Project title: 
 Interactive Learning Quiz Generator
