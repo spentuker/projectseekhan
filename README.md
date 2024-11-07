@@ -1,6 +1,7 @@
 *This is a project powered by KMIT's Project school*
 # Project Logo:
-![logo](https://github.com/user-attachments/assets/0d6a1c94-d7ef-4f2e-8f94-bfd26addf8cc)
+![logo_resized (2)](https://github.com/user-attachments/assets/2b61bae6-b513-4738-b221-3c8b641d394d)
+
 
 
 # Project title: 
