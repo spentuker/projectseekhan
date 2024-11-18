@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 
-function App() {
+function Llamato() {
   const [count, setCount] = useState(0);
   const [inputValue, setInputValue] = useState("");
   const [values, setValues] = useState([]);
@@ -32,13 +32,13 @@ function App() {
       }
 
       const data = await response.json();
-      console.log(data);
-      const response2 = await fetch("http://localhost:6969/submit", {
+      console.log(`${data} is recieved from llm`);
+      const response2 = await fetch("http://localhost:6969/api", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
         },
-        body: JSON.stringify({ user_prompt: data }),
+        body: JSON.stringify({ user_prompt: data.message }),
       });
       const data2 = await response2.json();
       console.log(data2);
@@ -71,4 +71,4 @@ function App() {
   );
 }
 
-export default App;
+export default Llamato;

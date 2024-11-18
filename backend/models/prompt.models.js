@@ -11,4 +11,4 @@ const input = mongoose.Schema(
     timestamps: true,
   }
 );
-export const prompt = mongoose.model("Prompt", input);
+export const prompt = mongoose.model("Prompt", input, "prompts");

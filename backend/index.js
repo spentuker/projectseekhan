@@ -10,7 +10,7 @@ app.use(cors());
 connectDB()
   .then(() => {
     app.listen(PORT, () => {
-      console.log(`Server is running at http://localhost:${PORT}/submit`);
+      console.log(`Server is running at http://localhost:${PORT}`);
     });
   })
   .catch((error) => {
@@ -19,9 +19,10 @@ connectDB()
 app.get("/", (req, res) => {
   res.send("bought 5 tickets");
 });
-app.post("/submit", async (req, res) => {
+app.post("/api", async (req, res) => {
   console.log("Received data:", req.body);
-  const newPrompt = new prompt({ promptInput: req.body.user_prompt });
+  const sdata = req.body.user_prompt;
+  const newPrompt = new prompt({ promptInput: sdata });
   await newPrompt.save();
-  res.json({ message: "Data received successfully" });
+  res.json({ message: "Data received successfully at the backend" });
 });
