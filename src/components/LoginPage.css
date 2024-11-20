@@ -1,0 +1,25 @@
+/* LoginPage.css */
+.login-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #2e3b55;
+  }
+  
+  .welcome-text {
+    color: #ffffff;
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  .login-button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    background-color: #111;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
