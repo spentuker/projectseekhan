@@ -14,13 +14,55 @@ warnings.filterwarnings("ignore", category=UserWarning)  # Ignores all UserWarni
 question = "Python Programming"
 
 # Adjusted labels based on the content of the uploaded file
-labels = [
-    "data structures and algorithms",
-    "programming concepts",
-    "software engineering",
-    "databases and data management",
-    "machine learning and data science"
+labels= [
+    "Artificial Intelligence",
+    "Operating Systems",
+    "Computer Networks",
+    "Cybersecurity",
+    "Cloud Computing",
+    "Distributed Systems",
+    "Blockchain Technology",
+    "Compiler Design",
+    "Computer Architecture",
+    "Human-Computer Interaction",
+    "Mobile Application Development",
+    "Web Development",
+    "Internet of Things (IoT)",
+    "Big Data",
+    "Natural Language Processing",
+    "Robotics",
+    "Quantum Computing",
+    "Graph Theory",
+    "Image Processing",
+    "Computer Vision",
+    "Augmented Reality",
+    "Virtual Reality",
+    "Embedded Systems",
+    "DevOps",
+    "Software Testing and Quality Assurance",
+    "Agile Methodologies",
+    "Version Control Systems",
+    "Cryptography",
+    "Functional Programming",
+    "Object-Oriented Programming",
+    "Game Development",
+    "Bioinformatics",
+    "Ethical Hacking",
+    "Digital Signal Processing",
+    "Data Visualization",
+    "Reinforcement Learning",
+    "Edge Computing",
+    "Neural Networks",
+    "Autonomous Systems",
+    "Hardware Design",
+    "Semantic Web",
+    "API Development",
+    "Data Mining",
+    "Penetration Testing",
+    "Information Retrieval"
 ]
+
+
 
 # Initialize the zero-shot classifier
 classifier = pipeline(
