@@ -19,6 +19,9 @@ generate quizzes tailored to specific topics, chapters, or documents. Users inpu
 a topic, a piece of text, or select a subject area, and the system generates a
 quiz with various question types, including multiple-choice, true/false, fill-in-theblank, and short answer questions.
 
+# Project Architecture Diagram
+
+
 # Project Workflow:
 ![projectworkflow](https://github.com/user-attachments/assets/c4dca94a-9e6d-457f-8568-5ed6cced074d)
 
