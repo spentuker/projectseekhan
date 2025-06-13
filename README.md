@@ -614,64 +614,85 @@ jupyter notebook pdf_to_text.ipynb
 </div>
 
 <table align="center">
-<tr>
-<td align="center" width="25%">
-<img src="https://via.placeholder.com/150x150/FF6B6B/FFFFFF?text=👤" width="100" height="100" style="border-radius: 50%;"/>
-<br />
-<strong>🚀 Project Lead</strong>
-<br />
-<a href="https://github.com/spenkuter">@spentuker</a>
-<br />
-<em>AI Architecture & Strategy</em>
-</td>
-<td align="center" width="25%">
-<img src="https://via.placeholder.com/150x150/4ECDC4/FFFFFF?text=👤" width="100" height="100" style="border-radius: 50%;"/>
-<br />
-<strong>🤖 AI Engineer</strong>
-<br />
-<a href="https://github.com/vipulchinmay">@vipulchinmay</a>
-<br />
-<em>Model Development & Training</em>
-</td>
-<td align="center" width="25%">
-<img src="https://via.placeholder.com/150x150/45B7D1/FFFFFF?text=👤" width="100" height="100" style="border-radius: 50%;"/>
-<br />
-<strong>🎨 Frontend Developer</strong>
-<br />
-<a href="https://github.com/nishit009">@nishit009</a>
-<br />
-<em>UI/UX & React Development</em>
-</td>
-<td align="center" width="25%">
-<img src="https://via.placeholder.com/150x150/F7DC6F/FFFFFF?text=👤" width="100" height="100" style="border-radius: 50%;"/>
-<br />
-<strong>🔧 Backend Developer</strong>
-<br />
-<a href="https://github.com/Srujana1008">@Srujana1008</a>
-<br />
-<em>Rag Developer</em>
-</td>
-<td align="center" width="25%">
-<img src="https://via.placeholder.com/150x150/F7DC6F/FFFFFF?text=👤" width="100" height="100" style="border-radius: 50%;"/>
-<br />
-<strong>🔧 Backend Developer</strong>
-<br />
-<a href="https://github.com/preethamap-25">@preethamap-25</a>
-<br />
-<em>audio transcription and NLP developer</em>
-</td>
-<td align="center" width="25%">
-<img src="https://via.placeholder.com/150x150/F7DC6F/FFFFFF?text=👤" width="100" height="100" style="border-radius: 50%;"/>
-<br />
-<strong>🔧 Backend Developer</strong>
-<br />
-<a href="https://github.com/divyabindu77">@divyabindu77</a>
-<br />
-<em>Flask and API developement</em>
-</td>
-</tr>
+  <!-- First Row - Leadership & AI -->
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://via.placeholder.com/120x120/FF6B6B/FFFFFF?text=🚀" width="100" height="100" style="border-radius: 50%; border: 3px solid #FF6B6B;"/>
+      <br /><br />
+      <strong>🚀 Project Lead</strong>
+      <br />
+      <a href="https://github.com/spentuker">
+        <img src="https://img.shields.io/badge/-@spentuker-FF6B6B?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile"/>
+      </a>
+      <br />
+      <em>AI Architecture & Strategy</em>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://via.placeholder.com/120x120/4ECDC4/FFFFFF?text=🤖" width="100" height="100" style="border-radius: 50%; border: 3px solid #4ECDC4;"/>
+      <br /><br />
+      <strong>🤖 AI Engineer</strong>
+      <br />
+      <a href="https://github.com/vipulchinmay">
+        <img src="https://img.shields.io/badge/-@vipulchinmay-4ECDC4?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile"/>
+      </a>
+      <br />
+      <em>Model Development & Training</em>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://via.placeholder.com/120x120/45B7D1/FFFFFF?text=🎨" width="100" height="100" style="border-radius: 50%; border: 3px solid #45B7D1;"/>
+      <br /><br />
+      <strong>🎨 Frontend Developer</strong>
+      <br />
+      <a href="https://github.com/nishit009">
+        <img src="https://img.shields.io/badge/-@nishit009-45B7D1?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile"/>
+      </a>
+      <br />
+      <em>UI/UX & React Development</em>
+    </td>
+  </tr>
+  
+  <!-- Second Row - Backend Team -->
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://via.placeholder.com/120x120/9B59B6/FFFFFF?text=⚡" width="100" height="100" style="border-radius: 50%; border: 3px solid #9B59B6;"/>
+      <br /><br />
+      <strong>🔧 Backend Developer</strong>
+      <br />
+      <a href="https://github.com/Srujana1008">
+        <img src="https://img.shields.io/badge/-@Srujana1008-9B59B6?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile"/>
+      </a>
+      <br />
+      <em>RAG Developer</em>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://via.placeholder.com/120x120/F39C12/FFFFFF?text=🎵" width="100" height="100" style="border-radius: 50%; border: 3px solid #F39C12;"/>
+      <br /><br />
+      <strong>🔧 Backend Developer</strong>
+      <br />
+      <a href="https://github.com/preethamap-25">
+        <img src="https://img.shields.io/badge/-@preethamap--25-F39C12?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile"/>
+      </a>
+      <br />
+      <em>Audio Transcription & NLP</em>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://via.placeholder.com/120x120/E74C3C/FFFFFF?text=🔗" width="100" height="100" style="border-radius: 50%; border: 3px solid #E74C3C;"/>
+      <br /><br />
+      <strong>🔧 Backend Developer</strong>
+      <br />
+      <a href="https://github.com/divyabindu77">
+        <img src="https://img.shields.io/badge/-@divyabindu77-E74C3C?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile"/>
+      </a>
+      <br />
+      <em>Flask & API Development</em>
+    </td>
+  </tr>
 </table>
 
+<div align="center">
+  <br />
+  <p><strong>💡 Each team member brings unique expertise to create innovative AI solutions</strong></p>
+</div>
 <div align="center">
 
 ### 🤝 **Want to Join Our Team?**
