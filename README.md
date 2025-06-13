@@ -649,7 +649,25 @@ jupyter notebook pdf_to_text.ipynb
 <br />
 <a href="https://github.com/Srujana1008">@Srujana1008</a>
 <br />
-<em>Flask API & Infrastructure</em>
+<em>Rag Developer</em>
+</td>
+<td align="center" width="25%">
+<img src="https://via.placeholder.com/150x150/F7DC6F/FFFFFF?text=👤" width="100" height="100" style="border-radius: 50%;"/>
+<br />
+<strong>🔧 Backend Developer</strong>
+<br />
+<a href="https://github.com/preethamap-25">@preethamap-25</a>
+<br />
+<em>audio transcription and NLP developer</em>
+</td>
+<td align="center" width="25%">
+<img src="https://via.placeholder.com/150x150/F7DC6F/FFFFFF?text=👤" width="100" height="100" style="border-radius: 50%;"/>
+<br />
+<strong>🔧 Backend Developer</strong>
+<br />
+<a href="https://github.com/divyabindu77">@divyabindu77</a>
+<br />
+<em>Flask and API developement</em>
 </td>
 </tr>
 </table>
