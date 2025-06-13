@@ -260,7 +260,7 @@ Redis
 #### 🐍 **Backend Setup**
 ```bash
 # 1️⃣ Clone repository
-git clone https://github.com/your-repo/seekhan.git
+git clone https://github.com/spentuker/projectseekhan.git
 cd seekhan
 
 # 2️⃣ Setup Flask backend
@@ -620,7 +620,7 @@ jupyter notebook pdf_to_text.ipynb
 <br />
 <strong>🚀 Project Lead</strong>
 <br />
-<a href="https://github.com/projectlead">@projectlead</a>
+<a href="https://github.com/spenkuter">@spentuker</a>
 <br />
 <em>AI Architecture & Strategy</em>
 </td>
@@ -629,7 +629,7 @@ jupyter notebook pdf_to_text.ipynb
 <br />
 <strong>🤖 AI Engineer</strong>
 <br />
-<a href="https://github.com/aiengineer">@aiengineer</a>
+<a href="https://github.com/vipulchinmay">@vipulchinmay</a>
 <br />
 <em>Model Development & Training</em>
 </td>
@@ -638,7 +638,7 @@ jupyter notebook pdf_to_text.ipynb
 <br />
 <strong>🎨 Frontend Developer</strong>
 <br />
-<a href="https://github.com/frontenddev">@frontenddev</a>
+<a href="https://github.com/nishit009">@nishit009</a>
 <br />
 <em>UI/UX & React Development</em>
 </td>
@@ -647,7 +647,7 @@ jupyter notebook pdf_to_text.ipynb
 <br />
 <strong>🔧 Backend Developer</strong>
 <br />
-<a href="https://github.com/backenddev">@backenddev</a>
+<a href="https://github.com/Srujana1008">@Srujana1008</a>
 <br />
 <em>Flask API & Infrastructure</em>
 </td>
@@ -688,7 +688,7 @@ Found an issue? Help us improve!
 - 📸 **Screenshots/videos**
 - 🎯 **Expected behavior**
 
-[🐛 Report Bug](https://github.com/your-repo/seekhan/issues/new?template=bug_report.md)
+[🐛 Report Bug](https://github.com/spentuker/projectseekhan/issues/new?template=bug_report.md)
 
 </td>
 <td width="33%" align="center">
@@ -701,7 +701,7 @@ Have a brilliant idea? Share it!
 - 🎨 **UI/UX mockups**
 - 🔍 **Research references**
 
-[💡 Request Feature](https://github.com/your-repo/seekhan/issues/new?template=feature_request.md)
+[💡 Request Feature](https://github.com/spentuker/projectseekhan/issues/new?template=feature_request.md)
 
 </td>
 <td width="33%" align="center">
@@ -714,7 +714,7 @@ Ready to code? Let's build together!
 - 📝 **Update documentation**
 - 🔄 **Submit pull request**
 
-[🔧 Contribute Code](https://github.com/your-repo/seekhan/pulls)
+[🔧 Contribute Code](https://github.com/spentuker/projectseekhan/pulls)
 
 </td>
 </tr>
@@ -796,10 +796,10 @@ We're grateful to the incredible community and organizations that make Seekhan p
 
 ### 🌐 **Stay Connected**
 
-[![⭐ Star us on GitHub](https://img.shields.io/github/stars/your-repo/seekhan?style=social)](https://github.com/your-repo/seekhan)
+[![⭐ Star us on GitHub](https://img.shields.io/github/stars/your-repo/seekhan?style=social)](https://github.com/spentuker/projectseekhan)
 [![🐦 Follow on Twitter](https://img.shields.io/twitter/follow/seekhan?style=social)](https://twitter.com/seekhan)
 [![💬 Join Discord](https://img.shields.io/discord/123456789?style=social&logo=discord)](https://discord.gg/seekhan)
-[![📧 Email Us](https://img.shields.io/badge/Email-team%40seekhan.com-blue?style=social&logo=gmail)](mailto:team@seekhan.com)
+[![📧 Email Us](https://img.shields.io/badge/Email-team%40seekhan.com-blue?style=social&logo=gmail)](mailto:projectseekhan@gmail.com)
 
 </div>
 
