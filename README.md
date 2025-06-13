@@ -629,7 +629,7 @@ jupyter notebook pdf_to_text.ipynb
     </td>
     <td align="center" width="33%">
       <img src="https://via.placeholder.com/120x120/4ECDC4/FFFFFF?text=🤖" width="100" height="100" style="border-radius: 50%; border: 3px solid #4ECDC4;"/>
-      <br /><br />
+      <br />
       <strong>🤖 AI Engineer</strong>
       <br />
       <a href="https://github.com/vipulchinmay">
