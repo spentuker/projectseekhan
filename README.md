@@ -699,7 +699,7 @@ jupyter notebook pdf_to_text.ipynb
 
 We're always looking for passionate developers, AI researchers, and educators to join our mission!
 
-[![Join Us](https://img.shields.io/badge/Join%20Our%20Team-We're%20Hiring-success?style=for-the-badge&logo=handshake)](mailto:team@seekhan.com)
+[![Join Us](https://img.shields.io/badge/Join%20Our%20Team-We're%20Exploring-success?style=for-the-badge&logo=handshake)](mailto:projectseekhan@gmail.com)
 
 </div>
 
